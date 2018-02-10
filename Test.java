@@ -6,4 +6,8 @@ public class Test {
     public static String helloWorld() {
         return "Hello, world!";
     }
+    
+    public static String helloEthan() {
+        return "Hello, Ethan!";
+    }
 }
