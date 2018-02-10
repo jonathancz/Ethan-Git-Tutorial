@@ -7,8 +7,12 @@ public class Test {
         return "Hello, world!";
     }
     
-    public static String helloJosh()
-    {
+
+    public static String helloJosh() {
     	return "Hello Josh";
+    }
+  
+    public static String helloEthan() {
+        return "Hello, Ethan!";
     }
 }
